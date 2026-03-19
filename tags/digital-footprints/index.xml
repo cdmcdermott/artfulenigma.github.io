@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital footprints on aRtFuL eNiGmA</title>
+    <link>https://artfulenigma.com/tags/digital-footprints/</link>
+    <description>Recent content in digital footprints on aRtFuL eNiGmA</description>
+    <image>
+      <url>https://artfulenigma.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://artfulenigma.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 31 Dec 2022 21:03:41 +0100</lastBuildDate><atom:link href="https://artfulenigma.com/tags/digital-footprints/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chat GPT</title>
+      <link>https://artfulenigma.com/articles/chaptgpt/</link>
+      <pubDate>Sat, 31 Dec 2022 21:03:41 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/chaptgpt/</guid>
+      <description>I asked Chat GPT how someone could improve their digital footprint; here was the reply&amp;hellip;
+ Use strong and unique passwords for your online accounts. Avoid using the same password for multiple accounts and consider using a password manager to help you generate and store strong passwords. Be cautious about the personal information you share online. Think carefully before posting personal information, such as your home address or phone number, on social media or other websites.</description>
+    </item>
+    
+    <item>
+      <title>Are you leaking your Social Media Fingerprint?</title>
+      <link>https://artfulenigma.com/articles/social-media-fingerprint/</link>
+      <pubDate>Tue, 26 Oct 2021 18:43:03 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/social-media-fingerprint/</guid>
+      <description>There is a well known vulnerability in many web platforms that allows a potential attacker to determine the online platforms you are signed up to and are currently logged into. The exploit is pretty simple and actually easy to fix, however, most companies have not bothered to fix it because it does pose a serious risk to their platforms. It does pose a potential issue for our privacy so let&amp;rsquo;s briefly look at how we can protect ourself.</description>
+    </item>
+    
+    <item>
+      <title>Reduce your Digital Footprints to improve Privacy</title>
+      <link>https://artfulenigma.com/articles/reduce-your-digital-footprints/</link>
+      <pubDate>Sat, 20 Mar 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/reduce-your-digital-footprints/</guid>
+      <description>This week I have been teaching one of my favourite topics Social Engineering. If you are not familiar with the topic, social engineering is the act of abusing human psychology to take advantage of a persons natural tendencies and emotional reactions in order to trick then into making security mistakes or giving away sensitive information.
+As part of the series we also explored open source intelligence (OSINT) which is a method often used by hackers to collect information from public sources in order to build a detailed profile about a victim.</description>
+    </item>
+    
+    <item>
+      <title>Why Privacy Matters</title>
+      <link>https://artfulenigma.com/articles/why-privacy-matters/</link>
+      <pubDate>Mon, 25 May 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/why-privacy-matters/</guid>
+      <description>Have you ever stopped to think about the technology you use, or the online services you engage with on a regular basis ? Chances are you use some form of technology or internet service on a daily basis. If so, have you considered the increasing trust we are required to place in technology or companies to manage our daily interactions.
+Whether it’s emails, holiday photos on social media, on-line shopping, internet banking or even health details; we are generating more personal data than ever before.</description>
+    </item>
+    
+  </channel>
+</rss>

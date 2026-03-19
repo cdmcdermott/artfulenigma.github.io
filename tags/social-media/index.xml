@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social media on aRtFuL eNiGmA</title>
+    <link>https://artfulenigma.com/tags/social-media/</link>
+    <description>Recent content in social media on aRtFuL eNiGmA</description>
+    <image>
+      <url>https://artfulenigma.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://artfulenigma.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Oct 2021 19:43:03 +0100</lastBuildDate><atom:link href="https://artfulenigma.com/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Psychology of attack and defence</title>
+      <link>https://artfulenigma.com/articles/the-psychology-of-attack-and-defence/</link>
+      <pubDate>Tue, 26 Oct 2021 19:43:03 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/the-psychology-of-attack-and-defence/</guid>
+      <description>A fascinating video by Perry Carpenter about the Psychology of attack and defence In the video Perry explains the art and science behind deception. Also, how threat actors use this knowledge to exploit vulnerabilities in human psychology to target end-users and how security awareness training can help users spot deception.
+A great watch to better understand social engineering, scams, disinformation campaigns, and much more.</description>
+    </item>
+    
+    <item>
+      <title>Are you leaking your Social Media Fingerprint?</title>
+      <link>https://artfulenigma.com/articles/social-media-fingerprint/</link>
+      <pubDate>Tue, 26 Oct 2021 18:43:03 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/social-media-fingerprint/</guid>
+      <description>There is a well known vulnerability in many web platforms that allows a potential attacker to determine the online platforms you are signed up to and are currently logged into. The exploit is pretty simple and actually easy to fix, however, most companies have not bothered to fix it because it does pose a serious risk to their platforms. It does pose a potential issue for our privacy so let&amp;rsquo;s briefly look at how we can protect ourself.</description>
+    </item>
+    
+    <item>
+      <title>Teens, Tech and Mental Health</title>
+      <link>https://artfulenigma.com/articles/teenstechandmentalhealth/</link>
+      <pubDate>Wed, 12 May 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/teenstechandmentalhealth/</guid>
+      <description>The Oxford Internet Institute (University of Oxford) published the findings of a study this week which investigated the impact of technology on mental health in adolescents.
+The study investigated engagement with smartphones, social media and television and reported finding little evidence to suggest an increased association between technology use and mental health exists.
+I found these findings somewhat surprising so decided to dig a little deeper.
+Firstly, information about new digital media has only been collected for a relatively short time, therefore, drawing firm conclusions about the impact on mental health at this stage may be premature.</description>
+    </item>
+    
+    <item>
+      <title>Sound of Silence: A Digital Interpretation</title>
+      <link>https://artfulenigma.com/articles/soundofsilencedigitalinterpretation/</link>
+      <pubDate>Thu, 01 Apr 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/soundofsilencedigitalinterpretation/</guid>
+      <description>This week I listened to the Sound of Silence by Simon and Garfunkel. Recorded in 1966 the song uses strong imagery of light and darkness to describe how peoples ignorance and apathy was destroying their ability to communicate with one another. Interestingly, if released today, the lyrics could equally be interpreted to describe how our misuse of some technologies is deeply impacting the very fabric of society. Here is my digital interpretation.</description>
+    </item>
+    
+    <item>
+      <title>DF Tube: How to watch YouTube distraction free</title>
+      <link>https://artfulenigma.com/articles/dftube-how-to-watch-youtube-distraction-free/</link>
+      <pubDate>Mon, 22 Jun 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/dftube-how-to-watch-youtube-distraction-free/</guid>
+      <description>YouTube is awesome. Who doesn’t like to watch cats and babies doing funny things, or learn how to replace a door catch on your dishwater to avoid an expensive plumbers bill. But, if you impulsively watch more and more videos and compulsively log in more frequently, even when you had planned to do something more productive, you may be addicted. In this article I will share some tips on how to avoid the black hole of YouTube using, amongst other things, DF Tube a plugin for Firefox.</description>
+    </item>
+    
+    <item>
+      <title>Our need for validation through Social Media</title>
+      <link>https://artfulenigma.com/articles/our-need-for-validation-through-social-media/</link>
+      <pubDate>Sun, 21 Jun 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/our-need-for-validation-through-social-media/</guid>
+      <description>So last week I took the plunge. I started my Blog and mailing list . It’s something I have been thinking about doing for a while, but always managed to find an excuse not to start, sound familiar ? This got me thinking about a quote I recently heard by Stoic philosopher, Epictetus:
+ If you want to improve, be content to be thought foolish and stupid - Epictetus
+ I think his point is that often the fear of looking foolish can cripple us and prevent us from starting a new venture or applying for a dream job or starting a blog.</description>
+    </item>
+    
+    <item>
+      <title>Why Privacy Matters</title>
+      <link>https://artfulenigma.com/articles/why-privacy-matters/</link>
+      <pubDate>Mon, 25 May 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/why-privacy-matters/</guid>
+      <description>Have you ever stopped to think about the technology you use, or the online services you engage with on a regular basis ? Chances are you use some form of technology or internet service on a daily basis. If so, have you considered the increasing trust we are required to place in technology or companies to manage our daily interactions.
+Whether it’s emails, holiday photos on social media, on-line shopping, internet banking or even health details; we are generating more personal data than ever before.</description>
+    </item>
+    
+  </channel>
+</rss>

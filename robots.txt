@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://artfulenigma.com/sitemap.xml

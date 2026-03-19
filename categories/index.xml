@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on aRtFuL eNiGmA</title>
+    <link>https://artfulenigma.com/categories/</link>
+    <description>Recent content in Categories on aRtFuL eNiGmA</description>
+    <image>
+      <url>https://artfulenigma.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://artfulenigma.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 31 Dec 2022 21:03:41 +0100</lastBuildDate><atom:link href="https://artfulenigma.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>privacy</title>
+      <link>https://artfulenigma.com/categories/privacy/</link>
+      <pubDate>Sat, 31 Dec 2022 21:03:41 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/categories/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://artfulenigma.com/categories/security/</link>
+      <pubDate>Tue, 09 Aug 2022 21:03:41 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/categories/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protect</title>
+      <link>https://artfulenigma.com/categories/protect/</link>
+      <pubDate>Thu, 11 Nov 2021 19:43:03 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/categories/protect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minimalism</title>
+      <link>https://artfulenigma.com/categories/minimalism/</link>
+      <pubDate>Wed, 12 May 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/categories/minimalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>refine</title>
+      <link>https://artfulenigma.com/categories/refine/</link>
+      <pubDate>Thu, 01 Apr 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/categories/refine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compartmentalise</title>
+      <link>https://artfulenigma.com/categories/compartmentalise/</link>
+      <pubDate>Mon, 25 May 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/categories/compartmentalise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

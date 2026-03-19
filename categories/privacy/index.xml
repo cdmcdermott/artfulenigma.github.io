@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on aRtFuL eNiGmA</title>
+    <link>https://artfulenigma.com/categories/privacy/</link>
+    <description>Recent content in privacy on aRtFuL eNiGmA</description>
+    <image>
+      <url>https://artfulenigma.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://artfulenigma.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 31 Dec 2022 21:03:41 +0100</lastBuildDate><atom:link href="https://artfulenigma.com/categories/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chat GPT</title>
+      <link>https://artfulenigma.com/articles/chaptgpt/</link>
+      <pubDate>Sat, 31 Dec 2022 21:03:41 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/chaptgpt/</guid>
+      <description>I asked Chat GPT how someone could improve their digital footprint; here was the reply&amp;hellip;
+ Use strong and unique passwords for your online accounts. Avoid using the same password for multiple accounts and consider using a password manager to help you generate and store strong passwords. Be cautious about the personal information you share online. Think carefully before posting personal information, such as your home address or phone number, on social media or other websites.</description>
+    </item>
+    
+    <item>
+      <title>Switch to Linux for better privacy?</title>
+      <link>https://artfulenigma.com/articles/switch_to_linux_for_better_privacy/</link>
+      <pubDate>Thu, 11 Nov 2021 19:43:03 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/switch_to_linux_for_better_privacy/</guid>
+      <description>I am a long time user and advocate of Linux. I use it daily in my teaching, and have long expounded the many security and privacy benefits that come from using the operating systems.
+The problem is, for the average user, it can be daunting thought to make the switch. Despite, this I would encourage you to watch this video by Rob Braxman. In it, he fully explains the underlying structure of Linux, namely the mainline Kernel and GNU utilities built on top of it, leading to the many distributions to choose from.</description>
+    </item>
+    
+    <item>
+      <title>Are you leaking your Social Media Fingerprint?</title>
+      <link>https://artfulenigma.com/articles/social-media-fingerprint/</link>
+      <pubDate>Tue, 26 Oct 2021 18:43:03 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/social-media-fingerprint/</guid>
+      <description>There is a well known vulnerability in many web platforms that allows a potential attacker to determine the online platforms you are signed up to and are currently logged into. The exploit is pretty simple and actually easy to fix, however, most companies have not bothered to fix it because it does pose a serious risk to their platforms. It does pose a potential issue for our privacy so let&amp;rsquo;s briefly look at how we can protect ourself.</description>
+    </item>
+    
+    <item>
+      <title>Amazon Sidewalk: Is it safe or should I opt out</title>
+      <link>https://artfulenigma.com/articles/amazonsidewalkprivacyconcerns/</link>
+      <pubDate>Wed, 23 Jun 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/amazonsidewalkprivacyconcerns/</guid>
+      <description>Amazon recently announced the launch of a new service: Amazon Sidewalk which appears to have caused quite a stir. The tech giant has come under fire for the way it has rolled out the new service, amid concerns regarding user privacy and security.
+Let&amp;rsquo;s briefly review the service to decide whether it is a useful new feature or a cause for concern.
+ What is Amazon Sidewalk? The first thing to note is that at present the service has only launched in the US.</description>
+    </item>
+    
+    <item>
+      <title>Best Web Browser for Privacy in 2021</title>
+      <link>https://artfulenigma.com/articles/best-web-browser-for-privacy-in-2021/</link>
+      <pubDate>Sun, 09 Aug 2020 13:21:37 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/best-web-browser-for-privacy-in-2021/</guid>
+      <description>Welcome A web browser can collect a lot of information about you. As the tool most used to browse the Internet, they can track the sites you visit, how long you spent on them, which links you clicked on or purchases you made, and much more. Choosing the right web browser is, therefore, an important consideration when trying to improve your online privacy.
+Ideally, you should choose a web browser which blocks all trackers by default, or at least, allows you to easily configure it do so.</description>
+    </item>
+    
+    <item>
+      <title>Multi-factor Authentication 2FA and Biometrics</title>
+      <link>https://artfulenigma.com/articles/multi-factor-authentication-2fa-and-biometrics/</link>
+      <pubDate>Sun, 02 Aug 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/multi-factor-authentication-2fa-and-biometrics/</guid>
+      <description>In a recent article, How to create and manage strong passwords, I demonstrated how using mnemonics to remember complex passwords or adopting a bitwarden can be used to improve your digital security, and make you a much more difficult target for potential hackers. It is, however, possible to protect your online digital interactions even further, by using Multi-factor authentication (MFA) to add extra layers of security when logging into systems.</description>
+    </item>
+    
+    <item>
+      <title>Antitrust: Tech Giants face Congress</title>
+      <link>https://artfulenigma.com/articles/antitrust-tech-giants-face-congress/</link>
+      <pubDate>Thu, 30 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/antitrust-tech-giants-face-congress/</guid>
+      <description>Tech giants: Apple, Google, Facebook and Amazon were questioned by a US Congress subcommittee yesterday on issues relating to antitrust, and the suggestion they hold too much power. For nearly six hours, congress confronted the CEOs about whether they wielded their market power to eliminate competitors and amass huge data on their customers. Indeed, congressman David Cicilline summarised the hearing by suggesting:
+ Simply put, they have too much power. The firms have monopoly power, some need to be broken up, all need to be properly regulated and held accountable &amp;ndash; David Cicilline However, according to Forbes , while the hearing may reflect the public’s (America) general concern regarding antitrust, and big tech’s increasing power, many are torn if, or how, the government should take action.</description>
+    </item>
+    
+    <item>
+      <title>How to create and manage strong passwords</title>
+      <link>https://artfulenigma.com/articles/how-to-create-and-manage-strong-passwords/</link>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/how-to-create-and-manage-strong-passwords/</guid>
+      <description>We all know we should use secure passwords, but, how do you balance the necessity of highly secure passwords with the ability to easily recall them when needed? Depending on which study you read, the average person has 27 online accounts and between 70-80 passwords to remember. As a result, many people choose the path of least resistance (I’m working on a future post about this) so either use simple, easy to remember (and guess) passwords, or use the same password everywhere.</description>
+    </item>
+    
+    <item>
+      <title>MindF*ck Inside Cambridge Analytica&#39;s Plot</title>
+      <link>https://artfulenigma.com/articles/minfckinsidecambridgeanalyticasplottobreaktheworld/</link>
+      <pubDate>Tue, 30 Jun 2020 22:31:54 +0100</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/minfckinsidecambridgeanalyticasplottobreaktheworld/</guid>
+      <description>Introduction It seems an appropriate week to be talking about social media. Many advertisers and sponsors have suspended advertising on Facebook, and some big names have left twitter (they were banned to be fair) moving to it’s “anything goes” rival paler. What better week to share a review of Christopher Wylie’s book: Mindf*ck: Inside Cambridge Analytica’s Plot to Break the World.
+Last week as I sat down to write a review I came across a great video on YouTube by Dan White , who kindly offered to share his review with subscribers of my mailing list (join the list to hear everything first).</description>
+    </item>
+    
+    <item>
+      <title>The debate about Contact Tracing Apps</title>
+      <link>https://artfulenigma.com/articles/the-debate-about-contact-tracing-apps/</link>
+      <pubDate>Fri, 19 Jun 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/the-debate-about-contact-tracing-apps/</guid>
+      <description>It appears the UK government have decided to scrap their NHS contact tracing app in favour of a model based on Google and Apple’s technology. In doing so, it joins a host of other countries (including Germany, Italy and Denmark) to favour a decentralised system developed by the Silicon Valley giants, rather than a centralised model developed locally. A step in the right direction ?
+There has been much debate and concern about the need and function of contact tracing apps to fight the current global pandemic.</description>
+    </item>
+    
+    <item>
+      <title>Rethinking Facial Recognition</title>
+      <link>https://artfulenigma.com/articles/rethinking-facial-recognition/</link>
+      <pubDate>Sat, 13 Jun 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/rethinking-facial-recognition/</guid>
+      <description>On the back of the horrific treatment of George Floyd a call for further measures to monitor police actions and increase accountability would not be unexpected. However, interestingly IBM, a leader in the provision of facial identification as a service, appear to be considering a rethink about how the technology should be used. CEO Arvind Krishna voiced support for a new bill aiming to reduce police violence, but called for a national dialogue about how/if the technology should be used.</description>
+    </item>
+    
+    <item>
+      <title>Big Tech influence to grow post Covid</title>
+      <link>https://artfulenigma.com/articles/big-tech-influence-to-grow-post-covid/</link>
+      <pubDate>Wed, 10 Jun 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/big-tech-influence-to-grow-post-covid/</guid>
+      <description>I probably don’t need to tell you the markets have been on a wild ride in the wake of the covid-19 outbreak. However, interestingly according to Forbes during this time, many of the same companies responsible for powering the recent decade-long bull market have gained even more clout, with tech behemoths Apple, Amazon, Alphabet, Facebook and Microsoft now accounting for over 22% of the S&amp;amp;P. That’s up from a 15 % share in 2018.</description>
+    </item>
+    
+    <item>
+      <title>Why Privacy Matters</title>
+      <link>https://artfulenigma.com/articles/why-privacy-matters/</link>
+      <pubDate>Mon, 25 May 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://artfulenigma.com/articles/why-privacy-matters/</guid>
+      <description>Have you ever stopped to think about the technology you use, or the online services you engage with on a regular basis ? Chances are you use some form of technology or internet service on a daily basis. If so, have you considered the increasing trust we are required to place in technology or companies to manage our daily interactions.
+Whether it’s emails, holiday photos on social media, on-line shopping, internet banking or even health details; we are generating more personal data than ever before.</description>
+    </item>
+    
+  </channel>
+</rss>
